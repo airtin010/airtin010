@@ -38,7 +38,7 @@ Olá! Eu sou **Ailton**, estudante de **Análise e Desenvolvimento de Sistemas**
   </a>
 </div>
 
-## 🔧 Contribuições (Jogo da Cobrinha)
+## 🔧 Contribuições
 
 <div align="center">
   <picture>
