@@ -14,6 +14,14 @@ Olá! Eu sou **Ailton**, estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/airtin010/airtin010/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/airtin010/airtin010/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/airtin010/airtin010/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🛠️ Habilidades
 
 ### 🔥 Principais Tecnologias
