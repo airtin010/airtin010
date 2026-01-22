@@ -30,12 +30,8 @@ Olá! Eu sou **Ailton**, estudante de **Análise e Desenvolvimento de Sistemas**
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/airtin010/BOT-WHATSAPP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=airtin010&repo=BOT-WHATSAPP&theme=tokyonight&title_color=9b5de5&icon_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br" width="350" />
-  </a>
-  <a href="https://github.com/airtin010/LOGIN-PAGE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=airtin010&repo=LOGIN-PAGE&theme=tokyonight&title_color=9b5de5&icon_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br"  />
-  </a>
+  <a href="https://github.com/airtin010/BOT-WHATSAPP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=airtin010&repo=BOT-WHATSAPP&theme=tokyonight&title_color=9b5de5&icon_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br" width="345" /></a>
+  <a href="https://github.com/airtin010/LOGIN-PAGE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=airtin010&repo=LOGIN-PAGE&theme=tokyonight&title_color=9b5de5&icon_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br" /></a>
 </div>
 
 ## 🔧 Contribuições
