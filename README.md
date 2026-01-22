@@ -14,32 +14,39 @@ Olá! Eu sou **Ailton**, estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
 
-## 📊 GitHub Status
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=airtin010&show_icons=true&theme=tokyonight&title_color=9b5de5&icon_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true"
-    alt="GitHub Stats" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtin010&layout=compact&theme=tokyonight&title_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true"
-    alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=airtin010&show_icons=true&theme=tokyonight&title_color=9b5de5&icon_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtin010&layout=compact&theme=tokyonight&title_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br" width="400" />
 </p>
 
-## 📈 Atividade (30 Dias)
+## 📈 Atividade (Últimos 30 Dias)
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=airtin010&theme=tokyo-night&hide_border=true&bg_color=1e1b29&line=9b5de5&point=8a4dce&color=cfcfcf"
-    alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=airtin010&theme=tokyo-night&hide_border=true&bg_color=1e1b29&line=9b5de5&point=8a4dce&color=cfcfcf" alt="Gráfico de Atividade" height="300" />
+</div>
 
-## 🔧 Contribuições no último ano
+## 🚀 Projetos em Destaque
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/airtin010/airtin010/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/airtin010/airtin010/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/airtin010/airtin010/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <a href="https://github.com/airtin010/BOT-WHATSAPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=airtin010&repo=BOT-WHATSAPP&theme=tokyonight&title_color=9b5de5&icon_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br" width="350" />
+  </a>
+  <a href="https://github.com/airtin010/LOGIN-PAGE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=airtin010&repo=LOGIN-PAGE&theme=tokyonight&title_color=9b5de5&icon_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br"  />
+  </a>
+</div>
+
+## 🔧 Contribuições (Jogo da Cobrinha)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/airtin010/airtin010/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/airtin010/airtin010/output/github-contribution-grid-snake.svg">
+    <img alt="Animação Snake" src="https://raw.githubusercontent.com/airtin010/airtin010/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
