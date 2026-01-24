@@ -17,8 +17,8 @@ Olá! Eu sou **Ailton**, estudante de **Análise e Desenvolvimento de Sistemas**
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=airtin010&show_icons=true&theme=tokyonight&title_color=9b5de5&icon_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtin010&layout=compact&theme=tokyonight&title_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br" width="315" />
+  <img src="https://github-readme-stats.vercel.app/api?username=airtin010&show_icons=true&theme=tokyonight&title_color=9b5de5&icon_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br&cache_seconds=1800" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtin010&layout=compact&theme=tokyonight&title_color=9b5de5&text_color=cfcfcf&bg_color=1e1b29&hide_border=true&locale=pt-br&cache_seconds=1800" width="315" />
 </p>
 
 ## 📈 Atividade (Últimos 30 Dias)
