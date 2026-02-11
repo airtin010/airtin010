@@ -7,7 +7,7 @@ Olá! Eu sou **Ailton**, estudante de **Análise e Desenvolvimento de Sistemas**
 ## ⚡ Quem sou eu
 
 - 🎓 **Curso:** Análise e Desenvolvimento de Sistemas  
-- 🏫 **Universidade:** São Francisco — 2º semestre  
+- 🏫 **Universidade:** São Francisco — 3º semestre  
 - 💼 **Objetivo:** Estágio em programação  
 - 🧠 **Mentalidade:** Evolução constante, prática e curiosidade técnica  
 - 💻 **Interesses:** Full Stack (sites), automação e IA  
