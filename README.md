@@ -60,7 +60,7 @@ Olá! Eu sou **Ailton**, estudante de **Análise e Desenvolvimento de Sistemas**
 ### 🔥 Principais Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,postgres,html,css,github,linux&theme=dark" />
 </div>
 
 ---
